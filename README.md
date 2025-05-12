@@ -4,6 +4,6 @@
 
 
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1371357679959670857/1371362454931640420/New_Project_86.png?ex=6822dc4f&is=68218acf&hm=d0156a313cc4d34daf959b329d411e30296edc445472e9fad197ad754d735563&" width = "250" height = "250">
+<p align="left">
+  <img src="https://cdn.discordapp.com/attachments/1371357679959670857/1371362454931640420/New_Project_86.png?ex=6822dc4f&is=68218acf&hm=d0156a313cc4d34daf959b329d411e30296edc445472e9fad197ad754d735563&" width = "500" height = "500">
 </p>
