@@ -5,6 +5,6 @@
 
 
 <div style="display: flex; align-items: center;">
-  <img src="https://media.discordapp.net/attachments/1371357679959670857/1371363056432582759/New_Project_90.png?ex=6822dcdf&is=68218b5f&hm=ae82b87e0062edc12a35aefae9a23ce6d034c7151cc30fba345ea6fca962b9ba&=&format=webp&quality=lossless" style="width: 500px; height: auto; margin-right: 20px;">
+  <img src="https://media.discordapp.net/attachments/1371357679959670857/1371365107983978536/New_Project_98.png?ex=6822dec8&is=68218d48&hm=6a19bb99d051f25391dc39bc8e0514945ee13a85c90fff2bfc42404977cf78cc&=&format=webp&quality=lossless" style="width: 500px; height: auto; margin-right: 20px;">
   <img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1365.gif" style="width: 500px; height: auto;">
 </div>
