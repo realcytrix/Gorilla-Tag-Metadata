@@ -7,3 +7,6 @@
 <p align="left">
   <img src="https://media.discordapp.net/attachments/1371357679959670857/1371363056432582759/New_Project_90.png?ex=6822dcdf&is=68218b5f&hm=ae82b87e0062edc12a35aefae9a23ce6d034c7151cc30fba345ea6fca962b9ba&=&format=webp&quality=lossless" width = "500" height = "500">
 </p>
+<p align="Right">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1365.gif" width = "500" height = "500">
+</p>
