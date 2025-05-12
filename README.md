@@ -12,6 +12,6 @@
 </p>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://cdn.discordapp.com/attachments/1371357679959670857/1371369874806276136/New_Project_-_2025-05-11T231358.800.png?ex=6822e338&is=682191b8&hm=73a87d25378ae7251e7b34aff1084cfa74d508c2ef3d5794ed3c80d6577f6026&" style="width: 500px; height: auto; margin-center: 20px;">
+  <img src="https://media.discordapp.net/attachments/1371357679959670857/1371370311504760852/New_Project_-_2025-05-11T231552.328.png?ex=6822e3a1&is=68219221&hm=809af74bb1e7780e945318b2f419136e2b1a75501a3f8911b6b2da415b66a0f3&=&format=webp&quality=lossless" style="width: 500px; height: auto; margin-center: 20px;">
   <img src="https://www.icegif.com/wp-content/uploads/2025/02/gorilla-tag-icegif-9.gif" style="width: 500px; height: auto; margin-center: 20px">
 </div>
