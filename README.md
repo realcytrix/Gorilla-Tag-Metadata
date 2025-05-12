@@ -3,7 +3,7 @@
 </p>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://media.discordapp.net/attachments/1371357679959670857/1371366153301262388/New_Project_99.png?ex=6822dfc1&is=68218e41&hm=e802a1a2808cca93701c5739ddeebb1cb317bda3d641eda45c1695f4035bc358&=&format=webp&quality=lossless" style="width: 500px; height: auto; margin-center: 20px;">
+  <img src="https://cdn.discordapp.com/attachments/1371357679959670857/1371373807561998377/New_Project_-_2025-05-11T232939.072.png?ex=6822e6e2&is=68219562&hm=54e9eff66bac82687c5935e152c47d5b228584550e83700e3475f8509c0065c7&" style="width: 500px; height: auto; margin-center: 20px;">
   <img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1365.gif" style="width: 500px; height: auto; margin-center: 20px">
 </div>
 
