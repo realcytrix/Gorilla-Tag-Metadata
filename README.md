@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1365.gif" alt="GIF" width = "500" height = "500">
+  <img src="https://cdn.discordapp.com/attachments/1371357679959670857/1371362454931640420/New_Project_86.png?ex=6822dc4f&is=68218acf&hm=d0156a313cc4d34daf959b329d411e30296edc445472e9fad197ad754d735563&" width = "500" height = "500">
 </p>
