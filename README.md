@@ -3,8 +3,8 @@
 </p>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://cdn.discordapp.com/attachments/1371357679959670857/1371373807561998377/New_Project_-_2025-05-11T232939.072.png?ex=6822e6e2&is=68219562&hm=54e9eff66bac82687c5935e152c47d5b228584550e83700e3475f8509c0065c7&" style="width: 500px; height: auto; margin-center: 20px;">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1365.gif" style="width: 500px; height: auto; margin-center: 20px">
+  <img src="https://cdn.discordapp.com/attachments/1371357679959670857/1371373807561998377/New_Project_-_2025-05-11T232939.072.png?ex=6822e6e2&is=68219562&hm=54e9eff66bac82687c5935e152c47d5b228584550e83700e3475f8509c0065c7&" style="width: 400px; height: auto; margin-center: 20px;">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1365.gif" style="width: 400px; height: auto; margin-center: 20px">
 </div>
 
 <p align="center">
@@ -12,6 +12,6 @@
 </p>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://media.discordapp.net/attachments/1371357679959670857/1371370311504760852/New_Project_-_2025-05-11T231552.328.png?ex=6822e3a1&is=68219221&hm=809af74bb1e7780e945318b2f419136e2b1a75501a3f8911b6b2da415b66a0f3&=&format=webp&quality=lossless" style="width: 500px; height: auto; margin-center: 20px;">
-  <img src="https://www.icegif.com/wp-content/uploads/2025/02/gorilla-tag-icegif-9.gif" style="width: 500px; height: auto; margin-center: 20px">
+  <img src="https://media.discordapp.net/attachments/1371357679959670857/1371370311504760852/New_Project_-_2025-05-11T231552.328.png?ex=6822e3a1&is=68219221&hm=809af74bb1e7780e945318b2f419136e2b1a75501a3f8911b6b2da415b66a0f3&=&format=webp&quality=lossless" style="width: 400px; height: auto; margin-center: 20px;">
+  <img src="https://www.icegif.com/wp-content/uploads/2025/02/gorilla-tag-icegif-9.gif" style="width: 400px; height: auto; margin-center: 20px">
 </div>
