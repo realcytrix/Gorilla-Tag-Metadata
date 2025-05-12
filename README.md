@@ -6,5 +6,5 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://media.discordapp.net/attachments/1371357679959670857/1371363056432582759/New_Project_90.png?ex=6822dcdf&is=68218b5f&hm=ae82b87e0062edc12a35aefae9a23ce6d034c7151cc30fba345ea6fca962b9ba&=&format=webp&quality=lossless" style="width: 200px; height: auto; margin-right: 20px;">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1365.gif" style="width: 200px; height: auto;">
-</div>>
+  <img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1365.gif" style="width: 500px; height: auto;">
+</div>
